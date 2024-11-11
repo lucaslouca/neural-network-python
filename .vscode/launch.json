@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Train & Test",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceRoot}/neural_network_trainer.py",
+            "console": "integratedTerminal",
+            "args": []
+        }
+    ]
+}
